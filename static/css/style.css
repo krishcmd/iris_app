@@ -1,0 +1,33 @@
+.demo div {
+    float: left;
+    clear: none;
+    margin-left: 15;
+}
+
+.login{
+
+    position: absolute;
+	top: 40%;
+	left: 50%;
+	margin: -150px 0 0 -150px;
+    border-style: solid;
+    border-spacing: 10;
+
+}
+h1{
+    font-family:'Times New Roman';
+}
+h2{
+    color:darkred;
+    background-color: dimgray;
+}
+
+.body{
+    background-color: darkseagreen;
+}
+
+.btn{
+    background-color: #5ed3d3;
+    font-size: medium;
+    font-weight: bold;
+}
